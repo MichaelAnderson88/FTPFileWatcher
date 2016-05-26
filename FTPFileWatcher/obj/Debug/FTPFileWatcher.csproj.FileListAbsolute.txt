@@ -1,0 +1,15 @@
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\bin\Debug\FTPFileWatcher.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\bin\Debug\FTPFileWatcher.exe
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\bin\Debug\FTPFileWatcher.pdb
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.exe
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.pdb
+c:\users\michael\documents\visual studio 2015\Projects\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.Form1.resources
+C:\Users\mike.anderson\Desktop\FTPFileWatcher\FTPFileWatcher\bin\Debug\FTPFileWatcher.exe.config
+C:\Users\mike.anderson\Desktop\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.exe
+C:\Users\mike.anderson\Desktop\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.pdb
+C:\Users\Michael\Desktop\Development\FTPFileWatcher\FTPFileWatcher\bin\Debug\FTPFileWatcher.exe.config
+C:\Users\Michael\Desktop\Development\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.exe
+C:\Users\Michael\Desktop\Development\FTPFileWatcher\FTPFileWatcher\obj\Debug\FTPFileWatcher.pdb
